@@ -1,5 +1,5 @@
 {
-  "name": "ini-parser",
+  "name": "simple-ini-parser",
   "version": "0.0.1",
   "description": "Simple ini parser",
   "main": "index.js",
