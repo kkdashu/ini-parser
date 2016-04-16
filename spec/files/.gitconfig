@@ -1,0 +1,8 @@
+#一个简单的git配置文件
+[user]
+    name = kkdashu
+    email = wmeng17@gmail.com
+
+[ui]
+
+    color = auto

@@ -1,0 +1,19 @@
+{
+  "name": "ini-parser",
+  "version": "0.0.1",
+  "description": "Simple ini parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ./spec/*.js",
+    "auto-test": "jasmine-node ./spec/ --autotest"
+  },
+  "repository": "https://github.com/kkdashu/ini-parser",
+  "keywords": [
+    "ini"
+  ],
+  "author": "wmeng17@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
